@@ -1,0 +1,39 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:深色;;;;
+ORG;CHARSET=utf-8:深色模式 🌑;
+NOTE;CHARSET=utf-8:dark;
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:浅色;;;;
+ORG;CHARSET=utf-8: 浅色模式 ;
+NOTE;CHARSET=utf-8:light;
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:发光;;;;
+ORG;CHARSET=utf-8:为深色图标添加微弱的发光;
+NOTE;CHARSET=utf-8:glow;
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8: 表情符号 ;;;;
+ORG;CHARSET=utf-8: 表情符号化 ;
+NOTE;CHARSET=utf-8:emoji;
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8: 水彩画 ;;;;
+ORG;CHARSET=utf-8: 水彩图标;
+NOTE;CHARSET=utf-8:watercolor;
+PHOTO;ENCODING=b:
+END:VCARD
