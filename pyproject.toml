@@ -8,6 +8,8 @@ authors = ["Your Name <you@example.com>"]
 python = ">=3.10.0,<3.11"
 flask = "^3.0.0"
 gunicorn = "^21.2.0"
+analytics = "^0.6.5"
+vercel = "^0.2.1"
 
 [tool.pyright]
 # https://github.com/microsoft/pyright/blob/main/docs/configuration.md

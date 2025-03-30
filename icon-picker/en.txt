@@ -2,7 +2,7 @@ BEGIN:VCARD
 VERSION:3.0
 N;CHARSET=utf-8:Dark;;;;
 ORG;CHARSET=utf-8:Dark Mode 🌑;
-NOTE;CHARSET=utf-8:dark;
+NOTE;CHARSET=utf-8:dark
 PHOTO;ENCODING=b:
 END:VCARD
 
@@ -10,7 +10,7 @@ BEGIN:VCARD
 VERSION:3.0
 N;CHARSET=utf-8:Light;;;;
 ORG;CHARSET=utf-8:Light Mode;
-NOTE;CHARSET=utf-8:light;
+NOTE;CHARSET=utf-8:light
 PHOTO;ENCODING=b:
 END:VCARD
 
@@ -18,7 +18,7 @@ BEGIN:VCARD
 VERSION:3.0
 N;CHARSET=utf-8:Glow;;;;
 ORG;CHARSET=utf-8:A faint glow added to dark icons;
-NOTE;CHARSET=utf-8:glow;
+NOTE;CHARSET=utf-8:glow
 PHOTO;ENCODING=b:
 END:VCARD
 
@@ -26,7 +26,7 @@ BEGIN:VCARD
 VERSION:3.0
 N;CHARSET=utf-8:Emoji;;;;
 ORG;CHARSET=utf-8:Emojified;
-NOTE;CHARSET=utf-8:emoji;
+NOTE;CHARSET=utf-8:emoji
 PHOTO;ENCODING=b:
 END:VCARD
 
@@ -34,6 +34,6 @@ BEGIN:VCARD
 VERSION:3.0
 N;CHARSET=utf-8:Watercolor;;;;
 ORG;CHARSET=utf-8:Watercolored icons;
-NOTE;CHARSET=utf-8:watercolor;
+NOTE;CHARSET=utf-8:watercolor
 PHOTO;ENCODING=b:
 END:VCARD
