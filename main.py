@@ -27,6 +27,10 @@ def generate(menu,lang,icon):
     result = result.splitlines()
     for item in result:
         code += '<p>' + item + '</p>'  
+    code = """<script>
+  window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
+</script>
+<script defer src="/_vercel/insights/script.js"></script>""" + code
     return code
 
 if __name__ == '__main__':
