@@ -1,7 +1,7 @@
 BEGIN:VCARD
 VERSION:3.0
 N;CHARSET=utf-8:Dark;;;;
-ORG;CHARSET=utf-8:Dark Mode 🌑;
+ORG;CHARSET=utf-8:Dark Mode;
 NOTE;CHARSET=utf-8:dark
 PHOTO;ENCODING=b:
 END:VCARD
@@ -19,6 +19,14 @@ VERSION:3.0
 N;CHARSET=utf-8:Glow;;;;
 ORG;CHARSET=utf-8:A faint glow added to dark icons;
 NOTE;CHARSET=utf-8:glow
+PHOTO;ENCODING=b:
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:Glow Dots;;;;
+ORG;CHARSET=utf-8:A faint glow added to dotted icons;
+NOTE;CHARSET=utf-8:glow-dots
 PHOTO;ENCODING=b:
 END:VCARD
 
